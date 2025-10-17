@@ -2,6 +2,7 @@
 Hecho por Roman Espinosa Salvador
 Ultima revision hecha el 16 de octubre del 2025
 Descripcion del problema: Nos piden que dado tres valores A, B y C determinar el mayor
+Este programa se compilo usando clang 19.1.7 para FreeBSD
 */
 #include <stdio.h>
 
