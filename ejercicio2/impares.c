@@ -2,6 +2,7 @@
 Hecho por Roman Espinosa Salvador
 Ultima revision hecha el 16 de octubre del 2025
 Descripcion del problema: Encontrar los numeros impares hasta un numero N y multiplicarlos
+Este programa se compilo usando clang 19.1.7 para FreeBSD
 */
 #include <stdio.h>
 #define MAX 100
