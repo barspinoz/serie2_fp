@@ -2,6 +2,7 @@
 Hecho por Roman Espinosa Salvador
 Ultima revision hecha el 16 de octubre del 2025
 En este problema se hace un cuadrado rectangulo con un numero, es decir, si se pide de 5 quiere decir un cuadrado de 5 x 5
+Este programa se compilo usando clang 19.1.7 para FreeBSD
 */
 
 #include <stdio.h>
