@@ -15,11 +15,6 @@ int main(){
     printf("Escriba su calificacion:\n");
     scanf("%f", &calificacion);
 
-    /*verificar el tipo de calificacion*/    
-    if (calificacion < 0 || calificacion > 10) {
-        printf("ERROR. ");
-    }
-
     /*categorizar*/
     caso = (int)calificacion;
 
