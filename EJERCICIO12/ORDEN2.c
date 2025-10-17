@@ -2,7 +2,7 @@
 Hecho por Roman Espinosa Salvador
 Ultima revision hecha el 17 de octubre del 2025
 Descripcion del problema: Nos piden que dado cinco valores determinar su orden creciente
-Este programa se compilo usando clang 19.1.7 para FreeBSD
+Este programa se compilo usando gcc 12.2.0 para Debian GNU+Linux 12
 */
 #include <stdio.h>
 
