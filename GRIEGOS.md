@@ -1,5 +1,3 @@
-Claro, aquí tienes un resumen de los clásicos griegos organizado en formato markdown.
-
 # Resumen de los Clásicos Griegos
 
 ## Índice
