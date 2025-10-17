@@ -2,6 +2,7 @@
 Hecho por Roman Espinosa Salvador
 Ultima revision hecha el 16 de octubre del 2025
 Descripcion del problema: Se nos pide sumarle un segundo a determinada hora dada por el usuario
+Este programa se compilo usando clang 19.1.7 para FreeBSD
 */
 
 #include <stdio.h>
