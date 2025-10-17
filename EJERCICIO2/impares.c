@@ -17,7 +17,7 @@ int main() {
     
     for(i = 3; i <= n; i += 2) {
         multiplicacion *= i;
-        printf(" x %d ", i);
+        printf("1 x %d ", i);
     }
 
     if (n > 1) {
