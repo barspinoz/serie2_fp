@@ -28,15 +28,21 @@ Escribir un programa que calcule la función trigonométrica seno en un punto me
 
 [Código](/EJERCICIO3/seno.c)
 
+![FUNCIONAMIENTO](/caps/caps3/3.gif)
+
 ### EJERCICIO 4
 Diseñar un algoritmo y realizar su implementación que lea tres números A , B , C y visualice en pantalla el valor del más grande. Se supone que los tres valores son diferentes.
 
 [Código](/EJERCICIO4/mayor.c)
 
+![FUNCIONAMIENTO](/caps/caps4/4.gif)
+
 ### EJERCICIO 5
 Hacer un algoritmo al que le damos la hora HH , MM , SS y nos calcule la hora dentro de un segundo. Leeremos las horas minutos y segundos como números enteros. Implementar el algoritmo en lenguaje C.
 
 [Código](/EJERCICIO5/hora.c)
+
+![FUNCIONAMIENTO](/caps/caps5/5.gif)
 
 ### EJERCICIO 6
 Diseñar un programa que permita realizar diferentes tipos de conversiones de monedas. El usuario debe seleccionar un tipo de conversión desde el menú principal. Por ejemplo:
