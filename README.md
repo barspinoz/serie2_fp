@@ -18,6 +18,8 @@ Escribir un programa que solicite un número entero N, y que para todo múltiplo
 
 [Código](/EJERCICIO2/impares.c)
 
+![FUNCIONAMIENTO](/caps/caps2/2.gif)
+
 ### EJERCICIO 3
 Escribir un programa que calcule la función trigonométrica seno en un punto mediante la expresión de un desarrollo en serie de la misma. El valor de x se pedirá al usuario, pero sólo se aceptarán valores comprendidos entre 0 y 20 radianes, considerándose erróneos otros valores. Se considerará que valor obtenido es correcto cuando el último sumando de la serie anterior sea menor que un error residual máximo e (solicitado al usuario). El programa debe mostrar:
 + El valor de sen(x) obtenido utilizando la siguiente instrucción en C: sin(x);
