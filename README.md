@@ -55,7 +55,7 @@ Diseñar un programa que permita realizar diferentes tipos de conversiones de mo
 
 [Código](/EJERCICIO6/cambiomonedas.c)
 
-![FUNCIONAMIENTO](/caps/caps6/6.gif)
+![FUNCIONAMIENTO](/caps/caps6/optimised.gif)
 
 ### EJERCICIO 7
 Escribir un programa que lea la calificación de un examen por teclado y devuelva la calificación no numérica correspondiente. La calificación podrá ser: No aprobado (0-4.99), Aprobado (5-6.99), Notable (7- 8.99), Sobresaliente (9-9.99) o Excelente (10). Realizar este ejercicio utilizando la sentencia de control switch.
