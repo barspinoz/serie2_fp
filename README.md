@@ -11,6 +11,8 @@ Escribir un programa que muestre por pantalla un cuadrado de dígitos para un va
 
 [Código](/EJERCICIO1/cuadrado.c)
 
+![FUNCIONAMIENTO](/caps/caps1/1.gif)
+
 ### EJERCICIO 2
 Escribir un programa que solicite un número entero N, y que para todo múltiplo X de N menor que 100, calcule el producto de todos los números impares menores que X. El programa deberá mostrar el valor de la suma de todos los productos calculados.
 
