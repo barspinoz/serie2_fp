@@ -82,7 +82,7 @@ Implementar el algoritmo para imprimir la suma de los números impares menores o
 ### EJERCICIO 20
 Una persona invierte $1000.00 en una cuenta de ahorro con un 5% de interés. Se asume que todo el interés se deja en depósito de la cuenta; calcule y despliegue el monto acumulado de la cuenta al final de cada año, durante 10 años. Utilice la siguiente fórmula para determinar estos montos:
 
-'a = p(1 + r)n'
+`a = p(1 + r)n`
 
 donde:
 + p es el monto de la inversión original (inversión principal)
