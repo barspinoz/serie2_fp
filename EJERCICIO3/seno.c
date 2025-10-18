@@ -1,3 +1,14 @@
+/*
+Hecho por Roman Espinosa Salvador
+Ultima revision hecha el 16 de octubre del 2025
+
+Descripcion del problema: Escribir un programa que calcule la función trigonométrica seno en un punto mediante
+la expresión de un desarrollo en serie de la misma. El valor de x se pedirá al usuario, pero sólo se aceptarán
+valores comprendidos entre 0 y 20 radianes, considerándose erróneos otros valores. Se considerará que valor
+obtenido es correcto cuando el último sumando de la serie anterior sea menor que un error residual máximo e.
+
+Este programa se compilo usando gcc 12.2.0 para Debian GNU+Linux 12
+*/
 #include <stdio.h>
 #include <math.h>
 
