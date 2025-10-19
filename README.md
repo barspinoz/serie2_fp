@@ -62,25 +62,35 @@ Escribir un programa que lea la calificación de un examen por teclado y devuelv
 
 [Código](/EJERCICIO7/calificacion.c)
 
+![FUNCIONAMIENTO](/caps/caps7/7.gif)
+
 ### EJERCICIO 8
 Repetir el ejercicio anterior pero utilizando la sentencia de control if-else.
 
 [Código](/EJERCICIO8/calificacion_if-else.c)
+
+![FUNCIONAMIENTO](/caps/caps8/8.gif)
 
 ### EJERCICIO 9
 Mejorar el ejercicio anterior de modo que si el usuario introduce un valor menor que cero o un valor mayor que 10 se muestre por pantalla un mensaje de error.
 
 [Código](/EJERCICIO9/calificacion.c)
 
+![FUNCIONAMIENTO](/caps/caps9/9.gif)
+
 ### EJERCICIO 10
 Escribir un programa que lea cuatro números cualesquiera y determine cuál es el mayor. También deberá considerar el caso en el que los números sean iguales.
 
 [Código](/EJERCICIO10/mayor4.c)
 
+![FUNCIONAMIENTO](/caps/caps10/10.gif)
+
 ### EJERCICIO 11
 Escribir un programa que lea cuatro números enteros y determine cuál es el menor. También debe considerar el caso en el que los números sean iguales.
 
 [Código](/EJERCICIO11/menor.c)
+
+![FUNCIONAMIENTO](/caps/caps11/11.gif)
 
 ### EJERCICIO 12
 Escribir un programa que lea cinco números cualesquiera y emita un mensaje indicando si están o no ordenados en orden creciente.
@@ -95,6 +105,10 @@ Escribir un programa que lea números enteros de teclado hasta que encuentre uno
 + No múltiplo de 5.
 + Mayor que 100.
 + Menor que 10.000.
+
+[Código](/EJERCICIO13/multiplo.c)
+
+![FUNCIONAMIENTO](/caps/caps13/13.gif)
 
 ### EJERCICIO 14
 Escribir un programa que diga si un número es primo o no.
