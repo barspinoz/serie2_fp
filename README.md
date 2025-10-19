@@ -87,6 +87,8 @@ Escribir un programa que lea cinco números cualesquiera y emita un mensaje indi
 
 [Código](/EJERCICIO12/ORDEN2.c)
 
+![FUNCIONAMIENTO](/caps/caps12/12.gif)
+
 ### EJERCICIO 13
 Escribir un programa que lea números enteros de teclado hasta que encuentre uno que cumpla las siguientes condiciones:
 + Múltiplo de 2.
