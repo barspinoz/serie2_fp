@@ -24,25 +24,30 @@ int main(){
     /*verificar */
     if (n % 5 == 0) {
         printf("ERROR. Su numero es multiplo de 5.\n");
+        return 1;
     }
 
-    else {
-        m = n % 2;
-
-        /*verificar si es multiplo o no*/
-        if (n >= MIN  || n <= MAX) {
-            switch (m) {
-            case 0: printf("Su numero es multiplo de 2.\n");
-            break;
-
-            default: printf("Su numero no es multiplo de 2.\n");
-            break;    
-            }
-        }
-        else {
-            printf("ERROR. Su numero es menor a 100 o es mayor a 10000.\n");
-        }
+    if (n < MIN) {
+        printf("ERROR. Su numero es menor a 100.\n");
+        return 1;
     }
+
+    if (MAX < n) {
+      printf("ERROR. Su numero es mayor a 10000.\n");
+      return 1;
+    }
+
+    m = n % 2;
+
+    /*verificar si es multiplo o no*/
+    switch (m) {
+        case 0: printf("Su numero es multiplo de 2.\n");
+        break;
+
+        default: printf("Su numero no es multiplo de 2.\n");
+        break;    
+    }
+    
     
     return 0;
 }
