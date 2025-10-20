@@ -113,11 +113,19 @@ Escribir un programa que lea números enteros de teclado hasta que encuentre uno
 ### EJERCICIO 14
 Escribir un programa que diga si un número es primo o no.
 
+[Código](/EJERCICIO14/primos.c)
+
+![FUNCIONAMIENTO](/caps/caps14/14.gif)
+
 ### EJERCICIO 15
 Leer 10 valores desde teclado y mostrar la media de los pares y la media de los impares. Hacer tres versiones, con un bucle: for, while y do-while. Repetir el ejercicio considerando que el número de valores se le solicita al usuario.
 
 ### EJERCICIO 16
 Escribir un programa que pidiendo un valor N seguido de N números, calcule el máximo y mínimo de ese conjunto de N números.
+
+[Código](/EJERCICIO16/n.c)
+
+![FUNCIONAMIENTO](/caps/caps16/16.gif)
 
 ### EJERCICIO 17
 Calcula la media de las notas de un conjunto de alumnos. La introducción de datos finaliza cuando el valor de la nota es –1.
@@ -128,8 +136,16 @@ Los empleados de una fábrica trabajan en dos turnos: diurno y nocturno. Se dese
 2. la tarifa de las horas nocturnas es de $8,
 3. caso de ser domingo, la tarifa se incrementará en $2 el turno diurno y $3 el turno nocturno.
 
+[Código](/EJERCICIO18/fabrica.c)
+
+![FUNCIONAMIENTO](/caps/caps18/18.gif)
+
 ### EJERCICIO 19
 Implementar el algoritmo para imprimir la suma de los números impares menores o iguales a N.
+
+[Código](/EJERCICIO19/impar.c)
+
+![FUNCIONAMIENTO](/caps/caps19/19.gif)
 
 ### EJERCICIO 20
 Una persona invierte $1000.00 en una cuenta de ahorro con un 5% de interés. Se asume que todo el interés se deja en depósito de la cuenta; calcule y despliegue el monto acumulado de la cuenta al final de cada año, durante 10 años. Utilice la siguiente fórmula para determinar estos montos:
@@ -141,3 +157,7 @@ donde:
 + r tasa de interés anual
 + n número de años
 + a es el monto del depósito al final del año n.
+
+[Código](/EJERCICIO20/ahorro.c)
+
+![FUNCIONAMIENTO](/caps/caps20/20.gif)
