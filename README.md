@@ -120,6 +120,12 @@ Escribir un programa que diga si un número es primo o no.
 ### EJERCICIO 15
 Leer 10 valores desde teclado y mostrar la media de los pares y la media de los impares. Hacer tres versiones, con un bucle: for, while y do-while. Repetir el ejercicio considerando que el número de valores se le solicita al usuario.
 
+[Código for](/EJERCICIO15/for.c)
+
+[Código while](/EJERCICIO15/while.c)
+
+[Código do-while](/EJERCICIO15/do-while.c)
+
 ### EJERCICIO 16
 Escribir un programa que pidiendo un valor N seguido de N números, calcule el máximo y mínimo de ese conjunto de N números.
 
@@ -129,6 +135,8 @@ Escribir un programa que pidiendo un valor N seguido de N números, calcule el m
 
 ### EJERCICIO 17
 Calcula la media de las notas de un conjunto de alumnos. La introducción de datos finaliza cuando el valor de la nota es –1.
+
+[Código](/EJERCICIO17/promedio.c)
 
 ### EJERCICIO 18
 Los empleados de una fábrica trabajan en dos turnos: diurno y nocturno. Se desea calcular el pago diario de acuerdo con los siguientes puntos:
